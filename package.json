@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "dat.gui": "^0.7.9"
+  },
+  "dependencies": {
+    "three": "^0.162.0"
+  }
+}
